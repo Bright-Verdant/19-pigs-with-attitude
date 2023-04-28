@@ -26,3 +26,11 @@ The following npm packages are required for the application:
 ## Usage:
 
 simply run npm install followed by npm start to use.
+
+## License:
+MIT
+
+## About
+
+https://github.com/Bright-Verdant/19-pigs-with-attitude.git
+
